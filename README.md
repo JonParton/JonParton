@@ -1,6 +1,6 @@
 
 
-## Hi there 👋
+## 👋 Hi there 
 
 I'm Jon Parton, a technology enthusiast who loves to contribute back to the open source software that makes so much possible for us all 🌍. 
 
@@ -10,7 +10,7 @@ Thank you to all the code warriors that make our modern world possible 👍🤩
 
 ----
 
-#### Tech I currently use
+#### 🧑‍💻 Tech I currently use
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
