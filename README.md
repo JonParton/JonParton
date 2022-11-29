@@ -8,6 +8,8 @@ Be it improving docs 📃, adding features 🌟, discussing new API's 🗣️ or
 
 Thank you to all code warriors that make our modern world possible 👍🤩
 
+----
+
 #### Tech I currently use
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
