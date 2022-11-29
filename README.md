@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Jon Parton and I am a technology enthusiast who loves to contribute back to the open source software that makes so much possible for us all 🌍. 
+I'm Jon Parton, a technology enthusiast who loves to contribute back to the open source software that makes so much possible for us all 🌍. 
 
 Be it improving docs 📃, adding features 🌟, discussing new API's 🗣️ or reporting / investigating bugs 🐛 I'll be a good digital citizen and muck in on the projects I can add value to (When ever the day job and life doesn't get in the way!). 
 
